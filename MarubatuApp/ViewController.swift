@@ -38,6 +38,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        showQuestion()
     }
     
     // 問題を表示する関数
